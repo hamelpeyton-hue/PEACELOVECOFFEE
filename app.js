@@ -1,4 +1,4 @@
- 
+'use strict';
 const products=[
 {id:'caramel',name:'Groovy Caramel',description:'Creamy espresso, vanilla, and a caramel swirl. A little sweet, a lot to love.',price:6.75,category:'Coffee',featured:true,badge:'THE HOUSE FAVORITE'},
 {id:'pumpkin',name:'Pumpkin Daydream',description:'Pumpkin spice, warm cinnamon, and a dreamy cloud of cold foam.',price:6.75,category:'Coffee',featured:true,badge:'SEASONAL SIP'},
