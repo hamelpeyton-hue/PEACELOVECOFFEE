@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33183466/README.md)
 # Peace Love Coffee — website source
 
 ## Open the website
@@ -23,3 +22,9 @@ The address, added menu items, and event calendar are concept content to confirm
 
 ## Fonts
 The stylesheet loads Archivo Black and DM Sans from Google Fonts. Arial fallbacks are included for offline use.
+
+## SVG icon update
+All four interface peace signs now use inline SVG, so browsers cannot turn them into purple emoji. Replace index.html and styles.css together. Your app.js and image files do not need to change.
+
+Navigation and decorative accent symbols also use SVG instead of emoji-capable characters. All icons use the existing site palette.
+
